@@ -1,0 +1,94 @@
+C:\Users\Fathima\Desktop\Project\Harshani Opticals\Harshani Opticals\bin\Debug\Harshani Opticals.exe.config
+C:\Users\Fathima\Desktop\Project\Harshani Opticals\Harshani Opticals\bin\Debug\Harshani Opticals.exe
+C:\Users\Fathima\Desktop\Project\Harshani Opticals\Harshani Opticals\bin\Debug\Harshani Opticals.pdb
+C:\Users\Fathima\Desktop\Project\Harshani Opticals\Harshani Opticals\bin\Debug\Harshani Opticals.xml
+C:\Users\Fathima\Desktop\Project\Harshani Opticals\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmLogin.resources
+C:\Users\Fathima\Desktop\Project\Harshani Opticals\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmMainMenu.resources
+C:\Users\Fathima\Desktop\Project\Harshani Opticals\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmCustomerDetail.resources
+C:\Users\Fathima\Desktop\Project\Harshani Opticals\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmNewOrder.resources
+C:\Users\Fathima\Desktop\Project\Harshani Opticals\Harshani Opticals\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Fathima\Desktop\Project\Harshani Opticals\Harshani Opticals\obj\x86\Debug\Harshani Opticals.vbproj.GenerateResource.Cache
+C:\Users\Fathima\Desktop\Project\Harshani Opticals\Harshani Opticals\obj\x86\Debug\Harshani Opticals.exe
+C:\Users\Fathima\Desktop\Project\Harshani Opticals\Harshani Opticals\obj\x86\Debug\Harshani Opticals.xml
+C:\Users\Fathima\Desktop\Project\Harshani Opticals\Harshani Opticals\obj\x86\Debug\Harshani Opticals.pdb
+C:\Users\Fathima\Desktop\Project\Harshani Opticals\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmOthers.resources
+C:\Users\Fathima\Desktop\Project\Harshani Opticals\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmEmployee.resources
+C:\Users\Fathima\Desktop\Project\Harshani Opticals\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmStockDetails.resources
+C:\Users\Fathima\Desktop\Project\Harshani Opticals\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmStock.resources
+C:\Users\Fathima\Desktop\Project\Harshani Opticals\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmVendor.resources
+C:\Users\Fathima\Desktop\Project\Harshani Opticals\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmEmloyeeDetails.resources
+C:\Users\Fathima\Desktop\Project\Harshani Opticals\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmVendorsDetails.resources
+C:\Users\Fathima\Desktop\Project\Harshani Opticals\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmChangePassword.resources
+C:\Users\Fathima\Desktop\Project\Harshani Opticals\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmLoadingfirstform.resources
+C:\Users\Fathima\Desktop\Project\Harshani Opticals\Harshani Opticals\bin\Debug\DataBase.accdb
+F:\Project\Harshani Opticals\Harshani Opticals\bin\Debug\Harshani Opticals.exe.config
+F:\Project\Harshani Opticals\Harshani Opticals\obj\x86\Debug\Harshani Opticals.exe
+F:\Project\Harshani Opticals\Harshani Opticals\obj\x86\Debug\Harshani Opticals.xml
+F:\Project\Harshani Opticals\Harshani Opticals\obj\x86\Debug\Harshani Opticals.pdb
+C:\Users\Isura\Desktop\New folder\Grup pject\New folder (2)\Harshani Opticals\bin\Debug\Harshani Opticals.exe.config
+C:\Users\Isura\Desktop\New folder\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\Harshani Opticals.exe
+C:\Users\Isura\Desktop\New folder\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\Harshani Opticals.xml
+C:\Users\Isura\Desktop\New folder\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\Harshani Opticals.pdb
+C:\Users\Isura\Desktop\New folder\Grup pject\New folder (2)\Harshani Opticals\bin\Debug\DataBase.accdb
+C:\Users\Isura\Desktop\New folder\Grup pject\New folder (2)\Harshani Opticals\bin\Debug\Harshani Opticals.exe
+C:\Users\Isura\Desktop\New folder\Grup pject\New folder (2)\Harshani Opticals\bin\Debug\Harshani Opticals.pdb
+C:\Users\Isura\Desktop\New folder\Grup pject\New folder (2)\Harshani Opticals\bin\Debug\Harshani Opticals.xml
+C:\Users\Isura\Desktop\New folder\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmChangePassword.resources
+C:\Users\Isura\Desktop\New folder\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmEmloyeeDetails.resources
+C:\Users\Isura\Desktop\New folder\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmEmployee.resources
+C:\Users\Isura\Desktop\New folder\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmLoadingfirstform.resources
+C:\Users\Isura\Desktop\New folder\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmLogin.resources
+C:\Users\Isura\Desktop\New folder\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmMainMenu.resources
+C:\Users\Isura\Desktop\New folder\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmOthers.resources
+C:\Users\Isura\Desktop\New folder\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmCustomerDetail.resources
+C:\Users\Isura\Desktop\New folder\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmStockDetails.resources
+C:\Users\Isura\Desktop\New folder\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmNewOrder.resources
+C:\Users\Isura\Desktop\New folder\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Isura\Desktop\New folder\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmStock.resources
+C:\Users\Isura\Desktop\New folder\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmVendor.resources
+C:\Users\Isura\Desktop\New folder\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmVendorsDetails.resources
+C:\Users\Isura\Desktop\New folder\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\Harshani Opticals.vbproj.GenerateResource.Cache
+C:\Users\Isura\Desktop\groupproject\Grup pject\New folder (2)\Harshani Opticals\bin\Debug\Harshani Opticals.exe.config
+C:\Users\Isura\Desktop\groupproject\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\Harshani Opticals.exe
+C:\Users\Isura\Desktop\groupproject\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\Harshani Opticals.xml
+C:\Users\Isura\Desktop\groupproject\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\Harshani Opticals.pdb
+C:\Users\Isura\Desktop\groupproject\Grup pject\New folder (2)\Harshani Opticals\bin\Debug\DataBase.accdb
+C:\Users\Isura\Desktop\groupproject\Grup pject\New folder (2)\Harshani Opticals\bin\Debug\Harshani Opticals.exe
+C:\Users\Isura\Desktop\groupproject\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmChangePassword.resources
+C:\Users\Isura\Desktop\groupproject\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmEmloyeeDetails.resources
+C:\Users\Isura\Desktop\groupproject\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmEmployee.resources
+C:\Users\Isura\Desktop\groupproject\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmLoadingfirstform.resources
+C:\Users\Isura\Desktop\groupproject\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmLogin.resources
+C:\Users\Isura\Desktop\groupproject\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmMainMenu.resources
+C:\Users\Isura\Desktop\groupproject\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmOthers.resources
+C:\Users\Isura\Desktop\groupproject\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmCustomerDetail.resources
+C:\Users\Isura\Desktop\groupproject\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmStockDetails.resources
+C:\Users\Isura\Desktop\groupproject\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmNewOrder.resources
+C:\Users\Isura\Desktop\groupproject\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Isura\Desktop\groupproject\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmStock.resources
+C:\Users\Isura\Desktop\groupproject\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmVendor.resources
+C:\Users\Isura\Desktop\groupproject\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmVendorsDetails.resources
+C:\Users\Isura\Desktop\groupproject\Grup pject\New folder (2)\Harshani Opticals\obj\x86\Debug\Harshani Opticals.vbproj.GenerateResource.Cache
+E:\New folder (2)\New folder (2)\Harshani Opticals\bin\Debug\Harshani Opticals.exe.config
+E:\New folder (2)\New folder (2)\Harshani Opticals\obj\x86\Debug\Harshani Opticals.exe
+E:\New folder (2)\New folder (2)\Harshani Opticals\obj\x86\Debug\Harshani Opticals.xml
+E:\New folder (2)\New folder (2)\Harshani Opticals\obj\x86\Debug\Harshani Opticals.pdb
+E:\New folder (2)\New folder (2)\Harshani Opticals\bin\Debug\DataBase.accdb
+E:\New folder (2)\New folder (2)\Harshani Opticals\bin\Debug\Harshani Opticals.exe
+E:\New folder (2)\New folder (2)\Harshani Opticals\bin\Debug\Harshani Opticals.pdb
+E:\New folder (2)\New folder (2)\Harshani Opticals\bin\Debug\Harshani Opticals.xml
+E:\New folder (2)\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmChangePassword.resources
+E:\New folder (2)\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmEmloyeeDetails.resources
+E:\New folder (2)\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmEmployee.resources
+E:\New folder (2)\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmLoadingfirstform.resources
+E:\New folder (2)\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmLogin.resources
+E:\New folder (2)\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmMainMenu.resources
+E:\New folder (2)\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmOthers.resources
+E:\New folder (2)\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmCustomerDetail.resources
+E:\New folder (2)\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmStockDetails.resources
+E:\New folder (2)\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmNewOrder.resources
+E:\New folder (2)\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\New folder (2)\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmStock.resources
+E:\New folder (2)\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmVendor.resources
+E:\New folder (2)\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmVendorsDetails.resources
+E:\New folder (2)\New folder (2)\Harshani Opticals\obj\x86\Debug\Harshani Opticals.vbproj.GenerateResource.Cache
