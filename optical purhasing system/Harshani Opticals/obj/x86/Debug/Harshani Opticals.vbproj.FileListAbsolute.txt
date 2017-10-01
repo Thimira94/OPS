@@ -92,3 +92,7 @@ E:\New folder (2)\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplicat
 E:\New folder (2)\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmVendor.resources
 E:\New folder (2)\New folder (2)\Harshani Opticals\obj\x86\Debug\WindowsApplication1.frmVendorsDetails.resources
 E:\New folder (2)\New folder (2)\Harshani Opticals\obj\x86\Debug\Harshani Opticals.vbproj.GenerateResource.Cache
+C:\Users\Isura\Documents\GitHub\OPS\optical purhasing system\Harshani Opticals\bin\Debug\Harshani Opticals.exe.config
+C:\Users\Isura\Documents\GitHub\OPS\optical purhasing system\Harshani Opticals\obj\x86\Debug\Harshani Opticals.exe
+C:\Users\Isura\Documents\GitHub\OPS\optical purhasing system\Harshani Opticals\obj\x86\Debug\Harshani Opticals.xml
+C:\Users\Isura\Documents\GitHub\OPS\optical purhasing system\Harshani Opticals\obj\x86\Debug\Harshani Opticals.pdb

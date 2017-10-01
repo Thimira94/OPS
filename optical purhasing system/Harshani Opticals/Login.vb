@@ -6,7 +6,7 @@
 
     Private Sub btnLogin_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnLogin.Click
         login()
-
+        ''login opened
     End Sub
     Public Sub display()
         con.Open()
